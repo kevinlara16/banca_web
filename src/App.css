@@ -1,0 +1,122 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.header-logo{
+  position:sticky;
+  top:0;
+  left:0;
+  width:100%;
+  height:56px;
+  padding:16px;
+  text-align:center;
+}
+
+.header-logo > .manager-container{
+  display: flex;
+  justify-content:center;
+
+}
+
+.img-size{
+  width: 112px;
+  vertical-align: middle;
+  border-style: none;
+  display: flex;
+}
+
+h2{
+  font-family: PreloSlab-Book, serif;
+  font-weight: 300;
+  line-height: 1.2;
+  color: #0f265c;
+  letter-spacing: 0;
+}
+
+
+
+/* --------- */
+
+.user{
+    color: black;
+
+} 
+
+#inputBtn{
+  padding: 9px;
+  border-radius: 6px;
+  cursor:pointer;
+  outline: none;
+}
+
+
+
+/* .info-user{
+  display: flex;
+  flex-direction: end;
+  
+} */
+
+
+/* ------------ */
+
+.password{
+  color: black;
+} 
+
+#inputBtn{
+  padding: 9px;
+  border-radius: 6px;
+  cursor:pointer;
+  outline: none;
+}
+
+.info-password{
+
+}
+
+
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 98px;
+  border-radius: 6px;
+  cursor: pointer;
+  border-color: #fff199;
+  background-color: #fff199;
+  gap: 0.9rem;
+  font-weight: 500;
+  position: relative;
+  width: 87%;
+  justify-content: space-around;
+}
+
+.btn:active{
+  color: #9fa8be!important;
+  background-color: #fff199!important
+}
+
+.btn:disabled{
+  color: #ffc500!important;
+  background-color: #ffc500!important;
+  border-color: #fff199;
+}
+
+.text-button{
+  display: flex;
+  justify-content: center;
+  color: #9fa8be!important;
+}
+
+
+/* @media  and (281) {
+  
+} */
+
+
