@@ -28,3 +28,5 @@ Backend:
 MySql
 
 (https://github.com/kevin97-png/Proyecto-5/assets/133811075/0c5202ed-cc39-4251-bc66-4ffe19900095)
+
+Nota: Aún no está terminado el proyecto
