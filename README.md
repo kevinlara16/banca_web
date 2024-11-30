@@ -1,6 +1,6 @@
 # Creación del Banco Pichincha 
 
-El objetivo principal de esta aplicación es crear una página de inicio de sesión para una banca web.
+El objetivo principal de esta aplicación Crear una interfaz web atractiva y funcional para el Banco Pichincha, que permita a los usuarios realizar diversas operaciones bancarias de manera intuitiva y eficiente.
 
 Detalle de la aplicación:
 
@@ -18,7 +18,13 @@ Estilos CSS: Los estilos para los elementos en la página se definen en el archi
 
 En resumen, esta aplicación es una simple página de inicio de sesión de banca web desarrollada con React. Los usuarios pueden ingresar su usuario y contraseña y, al hacer clic en el botón "Ingresar", se enviará el formulario. Por supuesto, en un entorno real, faltaría la funcionalidad de autenticación y la interacción con un servidor para verificar las credenciales y permitir el acceso a la banca web.
 
+Tecnologías Utilizadas
+Frontend:
+React
+CSS
+JavaScript
 
-- [Link]([http://localhost:5173/)
+Backend:
+MySql
 
 (https://github.com/kevin97-png/Proyecto-5/assets/133811075/0c5202ed-cc39-4251-bc66-4ffe19900095)
