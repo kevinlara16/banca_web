@@ -20,13 +20,14 @@ En resumen, esta aplicación es una simple página de inicio de sesión de banca
 
 Tecnologías Utilizadas
 Frontend:
-React
-CSS
-JavaScript
+React: Utilizado para construir la interfaz de usuario. React permite crear componentes reutilizables y gestionar el estado de la aplicación de manera eficiente.
+CSS: Para el diseño visual de la aplicación. Se pueden utilizar frameworks como Bootstrap o Tailwind CSS para facilitar el diseño responsivo y moderno.
+JavaScript: Lenguaje principal para la lógica de interacción en el frontend, permitiendo la manipulación del DOM y la gestión de eventos.
 
 Backend:
-MySql
+SQL: Utilizado para gestionar la base de datos relacional que almacenará toda la información necesaria, como datos de clientes, transacciones y cuentas. SQL permite realizar operaciones como inserciones, actualizaciones y consultas complejas para recuperar información relevante.
+Node.js: Para crear una API RESTful que conecte el frontend con la base de datos. Esto permitirá manejar las solicitudes del usuario y responder adecuadamente a las interacciones en la interfaz.
 
 (https://github.com/kevin97-png/Proyecto-5/assets/133811075/0c5202ed-cc39-4251-bc66-4ffe19900095)
 
-Nota: Aún no está terminado el proyecto
+Nota: Aún no está terminado el proyecto, falta algunas modificaciones.
